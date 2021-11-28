@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpldRnjUceiCSvHSgef0/P8JEuVq5MkGtB+yXCwpJcYKrYXyN9syBKGOvUaqTS63vzRgojvq6lZAAT0x9Gzx4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Calculator\\CalculatorWebAPI\\CalculatorWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.12\\microsoft.aspnetcore.jsonpatch.5.0.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.12\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

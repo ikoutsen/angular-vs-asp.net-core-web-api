@@ -1,0 +1,38 @@
+﻿<div class="row form-group">
+    <div class="col-auto">
+        <label class="col-form-label">X1</label>
+    </div>
+    <div class="col-auto">
+        <input type="number" [(ngModel)]="point1.x" class="form-control" required />
+    </div>
+    <div class="col-auto">
+        <label class="col-form-label">Y1</label>
+    </div>
+    <div class="col-auto">
+        <input type="number" [(ngModel)]="point1.y" class="form-control" required />
+    </div>
+</div>
+<div class="row form-group">
+    <div class="col-auto">
+        <label class="col-form-label">X2</label>
+    </div>
+    <div class="col-auto">
+        <input type="number" [(ngModel)]="point2.x" class="form-control" required />
+    </div>
+    <div class="col-auto">
+        <label class="col-form-label">Y2</label>
+    </div>
+    <div class="col-auto">
+        <input type="number" [(ngModel)]="point2.y" class="form-control" required />
+    </div>
+</div>
+<div class="row form-group">
+    <div class="col-auto">
+        <button class="btn btn-primary form-control" (click)="calculateDistance()">
+            Посчитать дистанцию
+        </button>
+    </div>
+    <div class="col-auto">
+        <input type="number" [ngModel]="distance" class="form-control" />
+    </div>
+</div>

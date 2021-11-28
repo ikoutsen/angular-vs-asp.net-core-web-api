@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kN5t2dNJwFsmeL4IOzt0a8Il2OLX/HIsp2lEW7ItEMjlQqHV647Nl3vFUDmbUZw91GyknVXcUNwbYkwW5ATV6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Calculator\\CalculatorFrontend\\CalculatorFrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.12\\microsoft.aspnetcore.spaservices.extensions.5.0.12.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
